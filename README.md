@@ -10,6 +10,7 @@ a. In the first part of Draw Batman Logo with Python Turtle, we will import the 
 
 b. Likewise, set the value of the “avinash” variable as 20.
 
+
 Second Part:
 a. Move the turtle left at an angle of 90 degrees and pick the pen up. Then, goto(-1*avinash,0) and put the pen down.
 
@@ -25,6 +26,7 @@ c. Coming out of the loop, make the pen go to (-1*avinash, 3*avinash). Do the sa
    pen.goto(int(-0.5*avinash),int(2.2*avinash))
    pen.goto(int(0.5*avinash),int(2.2*avinash))
    pen.goto(1*avinash,3*avinash)
+
 
 Third Part:
 a. In this part of the code, create a for loop with the range of { 1*avinash+1,3*avinash+1,1 }. 
